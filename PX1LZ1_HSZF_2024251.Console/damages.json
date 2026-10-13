@@ -1,0 +1,3994 @@
+{
+    "worlds": [
+        {
+            "world_name": "Earth-858-0",
+            "current_year": 2042,
+            "damages": [
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 2526039,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 8228179,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9370060,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 1417028,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 6940155,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 7925467,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 3210069,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 9974766,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 9940118,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 4771546,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-628-1",
+            "current_year": 2015,
+            "damages": [
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 654018,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 4540788,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 3483725,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 7955160,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 7692362,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 2831861,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 2106881,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-537-2",
+            "current_year": 2040,
+            "damages": [
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9899909,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 1415976,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 603102,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 6088350,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 8740664,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5880942,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1374812,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 2374360,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 1755855,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 2287478,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 2037889,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 8084403,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 9797929,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5732723,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 2505955,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 3222949,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 5455458,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 3977437,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 3816740,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-802-3",
+            "current_year": 2080,
+            "damages": [
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 5680749,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 2064715,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9739810,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 8147356,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 798409,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 7896597,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 2751090,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 4140954,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 3419485,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-541-4",
+            "current_year": 2016,
+            "damages": [
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 9395224,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 5380009,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 3161366,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 7497100,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 7045487,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 7594826,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 2464917,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 9911585,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 4870998,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 3216035,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 7468173,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 2420682,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 7525855,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 538571,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 694631,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-48-5",
+            "current_year": 2020,
+            "damages": [
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 8603761,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9274504,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 1256852,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 4184461,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 791272,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 838341,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 987976,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 7360734,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 2389165,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 911440,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 2438290,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 4046920,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 252450,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-20-6",
+            "current_year": 2087,
+            "damages": [
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 6198273,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 705605,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 3021892,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 2438466,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9643662,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 5749976,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-807-7",
+            "current_year": 2052,
+            "damages": [
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 366026,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 132266,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 8123536,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1249620,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 4303108,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 6171329,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 4182409,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 6300616,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 9736720,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 7548499,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1514926,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 5485011,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-308-8",
+            "current_year": 2018,
+            "damages": [
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 9107062,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 6737772,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 2895838,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 4675221,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 6184205,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 321224,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-752-9",
+            "current_year": 2042,
+            "damages": [
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 2003627,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 4974001,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 8729126,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 3689089,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 4455974,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 1461722,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 2687132,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 4410500,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 8760807,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 4302666,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 3072096,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 9521796,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 959794,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 4592447,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 6428139,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 7825590,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 2291585,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 9207945,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-693-10",
+            "current_year": 2094,
+            "damages": [
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 7917415,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 8154620,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 9032899,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 2558987,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 3190542,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 220907,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 4253806,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 4229094,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1597094,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 463063,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 1752960,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-621-11",
+            "current_year": 2016,
+            "damages": [
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 3770751,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 911775,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 5334911,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 6722327,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 6710314,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 3943939,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 6660145,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 2651156,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 3724536,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 8317594,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 1399343,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-565-12",
+            "current_year": 2032,
+            "damages": [
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 1066121,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 3276813,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 8367840,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 7942028,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 955342,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 4408960,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 6755436,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 4703736,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 5896920,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 6381713,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-199-13",
+            "current_year": 2010,
+            "damages": [
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 4700696,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 1858369,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 8697698,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 5306813,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 349163,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 3779145,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 8477568,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 4163579,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 3114886,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 1060734,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 9993134,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 494643,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 6026300,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 4845520,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 5686023,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 5572911,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 9414465,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 7712380,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 7761665,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5073652,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-498-14",
+            "current_year": 2094,
+            "damages": [
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 1177541,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 134529,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 3795305,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 4284034,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 3349135,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 9206653,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 9288227,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 9331488,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 1494538,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 8512606,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 2816308,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 5716000,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 736499,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5277361,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 3626180,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-397-15",
+            "current_year": 2013,
+            "damages": [
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9450521,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 441357,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1056324,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 1876948,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 6016205,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 7756818,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 3372786,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-780-16",
+            "current_year": 2023,
+            "damages": [
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 4509272,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 3196323,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 4325750,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 8722665,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 5412151,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 802760,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 1999627,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 6300703,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 3550043,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 3683234,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 8566397,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 9830647,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 5534397,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 1287979,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 3524267,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 2175048,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 8963432,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 1264872,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 4809963,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-972-17",
+            "current_year": 2050,
+            "damages": [
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 6869005,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 5935523,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 2045209,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 6852485,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 4931891,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 976899,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 6887342,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 317572,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 6837766,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 5713705,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 9532285,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 5018132,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 230066,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 5796187,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 6852567,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 1983204,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 7565897,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 4159676,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 41928,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 7993031,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-466-18",
+            "current_year": 2019,
+            "damages": [
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 1322248,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 7267055,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 5005448,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 2661903,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 1704045,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 8968043,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 781995,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 2931278,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5278509,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 1541643,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 8476831,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 555240,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-144-19",
+            "current_year": 2047,
+            "damages": [
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 538345,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 5157468,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 2605218,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 8716088,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 6254922,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 1213841,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 3729654,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 9207213,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 6468517,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 2169918,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 4230550,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1382931,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-118-20",
+            "current_year": 2036,
+            "damages": [
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 6081548,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 8765882,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 5359926,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 2593783,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 265613,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 9367961,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 8749347,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 7685304,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 3261389,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 9432561,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 9770425,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 3952160,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 4402878,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 6052924,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 3570809,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 5907377,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 8231563,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-679-21",
+            "current_year": 2016,
+            "damages": [
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 8039299,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 385294,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 2634112,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 1406698,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 3827331,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 3191195,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 3443614,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-656-22",
+            "current_year": 2074,
+            "damages": [
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 7094975,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 5927797,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 8312956,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5779624,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 1728494,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 7399012,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 4453526,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Hero"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 6095167,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 7808263,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 8400368,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 6125683,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 6654391,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 8458723,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 6450396,
+                    "category": "high",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 9143949,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 8443518,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 5972154,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 1797388,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 4839285,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-301-23",
+            "current_year": 2054,
+            "damages": [
+                {
+                    "description": "Earthquake damage in city",
+                    "cost": 536258,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9281575,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 9689027,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Villain"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Random civilian property damage",
+                    "cost": 5437643,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 1313755,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 2450000,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 5207481,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Alien invasion collateral",
+                    "cost": 3667692,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 5742172,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Alien species"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 6142747,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                }
+            ]
+        },
+        {
+            "world_name": "Earth-761-24",
+            "current_year": 2001,
+            "damages": [
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 4987859,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 1888529,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 5244048,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Accidental forest fire",
+                    "cost": 2648561,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "X-Men"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Car pileup during chase",
+                    "cost": 6159990,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 2060419,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Insurance agency"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "X-Men mansion explosion",
+                    "cost": 6039681,
+                    "category": "moderate",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 1005164,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Government"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 5053250,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Villain laboratory explosion",
+                    "cost": 3659048,
+                    "category": "high",
+                    "damage_type": "financial",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Food truck owner"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 303624,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 9061747,
+                    "category": "minor",
+                    "damage_type": "physical",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Company"
+                    ],
+                    "insurance_coverage": "uncovered",
+                    "repair_duration": "days"
+                },
+                {
+                    "description": "Flooded subway systems",
+                    "cost": 3943755,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Nonprofit organization"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "hours"
+                },
+                {
+                    "description": "Superhero battle downtown",
+                    "cost": 4275934,
+                    "category": "moderate",
+                    "damage_type": "physical",
+                    "impact": "global",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                },
+                {
+                    "description": "Stolen chimichangas from food truck",
+                    "cost": 1976717,
+                    "category": "minor",
+                    "damage_type": "financial",
+                    "impact": "local",
+                    "involved_parties": [
+                        "Random civilians"
+                    ],
+                    "insurance_coverage": "covered",
+                    "repair_duration": "months"
+                }
+            ]
+        }
+    ]
+}
